@@ -307,7 +307,7 @@ const cardData = {
     {"id": 21, "rarity": "S"},
     {"id": 22, "rarity": "B"},
     {"id": 23, "rarity": "B"},
-	{"id": 24, "rarity": "A"},
+    {"id": 24, "rarity": "A"},
     {"id": 25, "rarity": "D"},
     {"id": 26, "rarity": "D"},
     {"id": 27, "rarity": "SSS"},
@@ -333,6 +333,7 @@ const cardData = {
     {"id": 47, "rarity": "D"},
     {"id": 48, "rarity": "A"},
     {"id": 49, "rarity": "B"},
-	{"id": 50, "rarity": "SSS"},
+    {"id": 50, "rarity": "SSS"},
+    {"id": 51, "rarity": "SSS"},
   ]
 };
